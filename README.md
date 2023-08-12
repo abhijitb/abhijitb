@@ -1,8 +1,7 @@
 # Hi there. I am Abhijit Bhatnagar a Full Stack Web Developer 👋
 
-- 🔭 I’m currently working on Building Wordpress Plugins
-- 🌱 I’m currently learning Wordpress Development and ReactJS
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on Building WordPress Plugins
+- 🌱 I’m currently learning WordPress Development and ReactJS
 - ⚡ Motto: Never Give In
 
 <!--
